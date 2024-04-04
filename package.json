@@ -1,7 +1,6 @@
 {
   "name": "m4-atividade-sprint-1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "tsnd --respawn src/index.ts"
@@ -11,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "ts-node-dev": "^2.0.0",
-    "typescript": "^5.2.2"
-  }
+    "typescript": "^5.4.3"
+  },
+  "description": ""
 }
